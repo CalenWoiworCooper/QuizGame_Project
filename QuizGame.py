@@ -1,20 +1,25 @@
 def quiz_game():
     # List of questions and answers
     questions = [
-        {
-            "question": "What is the capital of France?",
-            "options": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
+      {
+            "question": "Which year Liberia was founded?",
+            "options": ["A) 1944", "B) 1872", "C) 1822", "D) R2024"],
             "answer": "C"
         },
         {
-            "question": "Which planet is known as the Red Planet?",
-            "options": ["A) Earth", "B) Mars", "C) Jupiter", "D) Saturn"],
-            "answer": "B"
+            "question": "Who is Liberia current President?",
+            "options": ["A) George Weah", "B) Prince Johnson", "C) Charles Taylor", "D) Joseph Boikai"],
+            "answer": "D"
         },
         {
-            "question": "Who wrote 'To Kill a Mockingbird'?",
-            "options": ["A) Harper Lee", "B) Mark Twain", "C) J.K. Rowling", "D) Ernest Hemingway"],
-            "answer": "A"
+            "question": "What is the name of your current math instructor'?",
+            "options": ["A) James Lee", "B) Emmanuel Dolokele", "C) Cooper George", "D) Calen Cooper"],
+            "answer": "D"
+        },
+        {
+             "question": "Where is the Starz University Located'?",
+            "options": ["A) Coffe Town", "B) Old road", "C) Airfield", "D) Gsa road"],
+            "answer": "C"
         }
     ] 
 
